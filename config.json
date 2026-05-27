@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcalidate",
+        "uuid": 16099620,
+        "checksum": "owehno"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
